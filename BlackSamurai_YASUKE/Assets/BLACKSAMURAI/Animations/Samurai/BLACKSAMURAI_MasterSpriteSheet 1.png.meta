@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b1924944d4590634a9f83c16ee5bd5e4
+guid: ce6e7b9b7ba9d65438ace3de08bc2930
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -518,7 +518,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walk_
+      name: Walk_6
       rect:
         serializedVersion: 2
         x: 1347
@@ -2171,13 +2171,13 @@ TextureImporter:
       name: ShadowGhost_2
       rect:
         serializedVersion: 2
-        x: 121
-        y: 24
+        x: 122
+        y: 27
         width: 104
-        height: 90
+        height: 81
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 5}
+      border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -2545,12 +2545,12 @@ TextureImporter:
       Sword: 824492084
       TurnBack_1: 1329232437
       TurnBack_2: -231989458
-      Walk_: 708731950
       Walk_1: -1077308475
       Walk_2: -1788618976
       Walk_3: -516890607
       Walk_4: -757454950
       Walk_5: -1740746548
+      Walk_6: 708731950
       Walk_7: -1712539457
       Walk_8: -414888600
   mipmapLimitGroupName: 
