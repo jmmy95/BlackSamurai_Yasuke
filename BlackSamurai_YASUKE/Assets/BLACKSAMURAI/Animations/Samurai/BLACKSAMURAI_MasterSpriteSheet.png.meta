@@ -122,7 +122,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_2
+      name: Head_
       rect:
         serializedVersion: 2
         x: 232
@@ -144,7 +144,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_4
+      name: Color
       rect:
         serializedVersion: 2
         x: 341
@@ -166,11 +166,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_7
+      name: Idle_2
       rect:
         serializedVersion: 2
         x: 725
-        y: 858
+        y: 855
         width: 63
         height: 128
       alignment: 0
@@ -188,7 +188,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_8
+      name: Idle_3
       rect:
         serializedVersion: 2
         x: 788
@@ -210,7 +210,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_9
+      name: Idle_5
       rect:
         serializedVersion: 2
         x: 908
@@ -232,7 +232,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_10
+      name: Idle_6
       rect:
         serializedVersion: 2
         x: 972
@@ -254,11 +254,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_11
+      name: Walk_1
       rect:
         serializedVersion: 2
         x: 1058
-        y: 856
+        y: 853
         width: 80
         height: 129
       alignment: 0
@@ -276,7 +276,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_12
+      name: Walk_3
       rect:
         serializedVersion: 2
         x: 1191
@@ -298,7 +298,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_13
+      name: Walk_5
       rect:
         serializedVersion: 2
         x: 1302
@@ -320,7 +320,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_14
+      name: Walk_7
       rect:
         serializedVersion: 2
         x: 1408
@@ -342,7 +342,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_17
+      name: Head
       rect:
         serializedVersion: 2
         x: 234
@@ -364,7 +364,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_18
+      name: TurnBack_1
       rect:
         serializedVersion: 2
         x: 324
@@ -386,7 +386,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_19
+      name: TurnBack_2
       rect:
         serializedVersion: 2
         x: 420
@@ -408,7 +408,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_20
+      name: Sword
       rect:
         serializedVersion: 2
         x: 531
@@ -430,7 +430,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_21
+      name: Idle_1
       rect:
         serializedVersion: 2
         x: 634
@@ -452,7 +452,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_23
+      name: Idle_4
       rect:
         serializedVersion: 2
         x: 845
@@ -474,7 +474,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_26
+      name: Walk_2
       rect:
         serializedVersion: 2
         x: 1132
@@ -496,7 +496,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_27
+      name: Walk_4
       rect:
         serializedVersion: 2
         x: 1249
@@ -518,7 +518,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_28
+      name: Walk_
       rect:
         serializedVersion: 2
         x: 1347
@@ -540,7 +540,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_32
+      name: Head_2
       rect:
         serializedVersion: 2
         x: 235
@@ -562,7 +562,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_35
+      name: ProjectileShuriken
       rect:
         serializedVersion: 2
         x: 486
@@ -584,7 +584,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_36
+      name: Run_1
       rect:
         serializedVersion: 2
         x: 619
@@ -606,7 +606,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_38
+      name: Run_2
       rect:
         serializedVersion: 2
         x: 744
@@ -628,7 +628,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_39
+      name: Run_3
       rect:
         serializedVersion: 2
         x: 830
@@ -650,7 +650,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_40
+      name: Run_4
       rect:
         serializedVersion: 2
         x: 920
@@ -672,7 +672,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_41
+      name: Run_5
       rect:
         serializedVersion: 2
         x: 999
@@ -694,7 +694,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_42
+      name: Jump_1
       rect:
         serializedVersion: 2
         x: 1087
@@ -716,7 +716,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_43
+      name: Jump_2
       rect:
         serializedVersion: 2
         x: 1185
@@ -738,7 +738,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_44
+      name: Jump_3
       rect:
         serializedVersion: 2
         x: 1264
@@ -760,7 +760,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_46
+      name: Main_Pose
       rect:
         serializedVersion: 2
         x: 0
@@ -782,7 +782,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_47
+      name: Fall_4
       rect:
         serializedVersion: 2
         x: 201
@@ -804,7 +804,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_48
+      name: Head_1
       rect:
         serializedVersion: 2
         x: 250
@@ -826,7 +826,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_49
+      name: Scarf
       rect:
         serializedVersion: 2
         x: 325
@@ -848,7 +848,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_50
+      name: Land_4
       rect:
         serializedVersion: 2
         x: 533
@@ -870,7 +870,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_56
+      name: Jump_4
       rect:
         serializedVersion: 2
         x: 1356
@@ -892,7 +892,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_59
+      name: Walk_8
       rect:
         serializedVersion: 2
         x: 1457
@@ -914,7 +914,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_60
+      name: Fall_1
       rect:
         serializedVersion: 2
         x: 0
@@ -936,7 +936,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_61
+      name: Fall_2
       rect:
         serializedVersion: 2
         x: 83
@@ -958,7 +958,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_62
+      name: Fall_3
       rect:
         serializedVersion: 2
         x: 140
@@ -980,7 +980,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_63
+      name: Land_1
       rect:
         serializedVersion: 2
         x: 265
@@ -1002,7 +1002,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_64
+      name: Land_2
       rect:
         serializedVersion: 2
         x: 358
@@ -1024,7 +1024,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_65
+      name: Land_3
       rect:
         serializedVersion: 2
         x: 435
@@ -1046,7 +1046,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_67
+      name: Crouch_1
       rect:
         serializedVersion: 2
         x: 666
@@ -1068,7 +1068,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_68
+      name: Crouch_2
       rect:
         serializedVersion: 2
         x: 770
@@ -1090,7 +1090,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_69
+      name: Crouch_3
       rect:
         serializedVersion: 2
         x: 880
@@ -1112,7 +1112,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_70
+      name: Dash_1
       rect:
         serializedVersion: 2
         x: 1001
@@ -1134,7 +1134,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_72
+      name: Dash_2
       rect:
         serializedVersion: 2
         x: 1168
@@ -1156,7 +1156,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_73
+      name: Dash_3
       rect:
         serializedVersion: 2
         x: 1281
@@ -1178,7 +1178,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_74
+      name: Dash_4
       rect:
         serializedVersion: 2
         x: 1414
@@ -1200,7 +1200,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_75
+      name: AttackSlash_1
       rect:
         serializedVersion: 2
         x: 3
@@ -1222,7 +1222,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_76
+      name: AttackSlash_2
       rect:
         serializedVersion: 2
         x: 132
@@ -1244,7 +1244,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_77
+      name: AttackSlash_3
       rect:
         serializedVersion: 2
         x: 238
@@ -1266,7 +1266,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_78
+      name: AttackSlash_4
       rect:
         serializedVersion: 2
         x: 327
@@ -1288,7 +1288,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_79
+      name: AttackSlash_5
       rect:
         serializedVersion: 2
         x: 436
@@ -1310,7 +1310,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_81
+      name: AttackHeavy_1
       rect:
         serializedVersion: 2
         x: 537
@@ -1332,7 +1332,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_82
+      name: AttackHeavy_2
       rect:
         serializedVersion: 2
         x: 671
@@ -1354,7 +1354,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_84
+      name: AttackHeavy_3
       rect:
         serializedVersion: 2
         x: 871
@@ -1376,7 +1376,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_85
+      name: Jump_5
       rect:
         serializedVersion: 2
         x: 1439
@@ -1398,7 +1398,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_86
+      name: AirAttack_1
       rect:
         serializedVersion: 2
         x: 1033
@@ -1420,11 +1420,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_87
+      name: AirAttack_2
       rect:
         serializedVersion: 2
         x: 1161
-        y: 400
+        y: 398
         width: 90
         height: 101
       alignment: 0
@@ -1442,7 +1442,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_88
+      name: AirAttack_4
       rect:
         serializedVersion: 2
         x: 1248
@@ -1464,7 +1464,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_89
+      name: AirAttack_49
       rect:
         serializedVersion: 2
         x: 1364
@@ -1486,7 +1486,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_103
+      name: Hurt_3
       rect:
         serializedVersion: 2
         x: 1322
@@ -1508,7 +1508,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_104
+      name: Hurt_5
       rect:
         serializedVersion: 2
         x: 1452
@@ -1530,7 +1530,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_105
+      name: SpinAttack_1
       rect:
         serializedVersion: 2
         x: 3
@@ -1552,7 +1552,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_106
+      name: SpinAttack_2
       rect:
         serializedVersion: 2
         x: 126
@@ -1574,7 +1574,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_107
+      name: SpinAttack_3
       rect:
         serializedVersion: 2
         x: 209
@@ -1596,7 +1596,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_108
+      name: SpinAttack_4
       rect:
         serializedVersion: 2
         x: 334
@@ -1618,7 +1618,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_109
+      name: SpinAttack_5
       rect:
         serializedVersion: 2
         x: 446
@@ -1640,7 +1640,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_111
+      name: SpinAttack_6
       rect:
         serializedVersion: 2
         x: 563
@@ -1662,7 +1662,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_112
+      name: SpinAttack_7
       rect:
         serializedVersion: 2
         x: 686
@@ -1684,7 +1684,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_113
+      name: Block_1
       rect:
         serializedVersion: 2
         x: 797
@@ -1706,7 +1706,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_114
+      name: Block_2
       rect:
         serializedVersion: 2
         x: 894
@@ -1728,7 +1728,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_115
+      name: Block_3
       rect:
         serializedVersion: 2
         x: 957
@@ -1750,7 +1750,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_116
+      name: Block_4
       rect:
         serializedVersion: 2
         x: 1062
@@ -1772,7 +1772,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_117
+      name: Hurt_1
       rect:
         serializedVersion: 2
         x: 1163
@@ -1794,7 +1794,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_118
+      name: Hurt_2
       rect:
         serializedVersion: 2
         x: 1256
@@ -1816,7 +1816,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_119
+      name: Hurt_4
       rect:
         serializedVersion: 2
         x: 1395
@@ -1838,7 +1838,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_120
+      name: Death_1
       rect:
         serializedVersion: 2
         x: 1
@@ -1860,7 +1860,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_121
+      name: Death_2
       rect:
         serializedVersion: 2
         x: 100
@@ -1882,7 +1882,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_122
+      name: Death_3
       rect:
         serializedVersion: 2
         x: 199
@@ -1904,7 +1904,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_123
+      name: Death_4
       rect:
         serializedVersion: 2
         x: 294
@@ -1926,7 +1926,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_124
+      name: Death_5
       rect:
         serializedVersion: 2
         x: 409
@@ -1948,7 +1948,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_125
+      name: Death_6
       rect:
         serializedVersion: 2
         x: 534
@@ -1970,7 +1970,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_127
+      name: ProjectileShuriken_1
       rect:
         serializedVersion: 2
         x: 686
@@ -1992,7 +1992,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_128
+      name: ProjectileShuriken_2
       rect:
         serializedVersion: 2
         x: 786
@@ -2014,7 +2014,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_129
+      name: ProjectileShuriken_3
       rect:
         serializedVersion: 2
         x: 913
@@ -2036,7 +2036,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_130
+      name: ProjectileShuriken_4
       rect:
         serializedVersion: 2
         x: 1000
@@ -2058,7 +2058,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_131
+      name: FxEffect_1
       rect:
         serializedVersion: 2
         x: 1099
@@ -2080,11 +2080,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_132
+      name: FxEffect_2
       rect:
         serializedVersion: 2
-        x: 1195
-        y: 129
+        x: 1197
+        y: 128
         width: 133
         height: 72
       alignment: 0
@@ -2102,7 +2102,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_133
+      name: FxEffect_3
       rect:
         serializedVersion: 2
         x: 1339
@@ -2124,7 +2124,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_134
+      name: FxEffect_4
       rect:
         serializedVersion: 2
         x: 1432
@@ -2146,7 +2146,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_135
+      name: ShadowGhost_1
       rect:
         serializedVersion: 2
         x: 0
@@ -2168,7 +2168,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_136
+      name: ShadowGhost_2
       rect:
         serializedVersion: 2
         x: 121
@@ -2190,7 +2190,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_137
+      name: ShadowGhost_3
       rect:
         serializedVersion: 2
         x: 220
@@ -2212,7 +2212,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_138
+      name: ShadowGhost_4
       rect:
         serializedVersion: 2
         x: 315
@@ -2234,7 +2234,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_140
+      name: ShadowGhost_5
       rect:
         serializedVersion: 2
         x: 431
@@ -2256,7 +2256,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_144
+      name: Fire_1
       rect:
         serializedVersion: 2
         x: 890
@@ -2278,7 +2278,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_145
+      name: Fire_2
       rect:
         serializedVersion: 2
         x: 988
@@ -2300,13 +2300,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_146
+      name: Fire_3
       rect:
         serializedVersion: 2
-        x: 1100
-        y: 24
-        width: 100
-        height: 100
+        x: 1076
+        y: 22
+        width: 124
+        height: 102
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2322,7 +2322,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_147
+      name: Explosive_1
       rect:
         serializedVersion: 2
         x: 1188
@@ -2344,7 +2344,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_148
+      name: Lightning _1
       rect:
         serializedVersion: 2
         x: 1334
@@ -2366,7 +2366,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BLACKSAMURAI_MasterSpriteSheet_149
+      name: Lightning _2
       rect:
         serializedVersion: 2
         x: 1411
@@ -2403,146 +2403,55 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":100.0,"y":100.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
+      AirAttack_1: 33401363
+      AirAttack_2: 1038473789
+      AirAttack_4: -281189174
+      AirAttack_49: 327691756
+      AttackHeavy_1: -547234723
+      AttackHeavy_2: 1153524727
+      AttackHeavy_3: 2134328694
+      AttackSlash_1: 1666728777
+      AttackSlash_2: -1695705906
+      AttackSlash_3: 2097578291
+      AttackSlash_4: -523825655
+      AttackSlash_5: -182642101
       BLACKSAMURAI_MasterSpriteSheet_0: -5579391881831792431
       BLACKSAMURAI_MasterSpriteSheet_1: 9014425189621906589
-      BLACKSAMURAI_MasterSpriteSheet_10: 2102450084
       BLACKSAMURAI_MasterSpriteSheet_100: -657155464
       BLACKSAMURAI_MasterSpriteSheet_101: 482814074
       BLACKSAMURAI_MasterSpriteSheet_102: 1966098581
-      BLACKSAMURAI_MasterSpriteSheet_103: 977112148
-      BLACKSAMURAI_MasterSpriteSheet_104: -1465817206
-      BLACKSAMURAI_MasterSpriteSheet_105: -1816501000
-      BLACKSAMURAI_MasterSpriteSheet_106: -1345215283
-      BLACKSAMURAI_MasterSpriteSheet_107: -1292726537
-      BLACKSAMURAI_MasterSpriteSheet_108: -84197406
-      BLACKSAMURAI_MasterSpriteSheet_109: -1202208987
-      BLACKSAMURAI_MasterSpriteSheet_11: -1077308475
       BLACKSAMURAI_MasterSpriteSheet_110: 685707642
-      BLACKSAMURAI_MasterSpriteSheet_111: -1135215333
-      BLACKSAMURAI_MasterSpriteSheet_112: -299805463
-      BLACKSAMURAI_MasterSpriteSheet_113: 1545225740
-      BLACKSAMURAI_MasterSpriteSheet_114: -1727764223
-      BLACKSAMURAI_MasterSpriteSheet_115: -1088103761
-      BLACKSAMURAI_MasterSpriteSheet_116: -991991044
-      BLACKSAMURAI_MasterSpriteSheet_117: -1218340913
-      BLACKSAMURAI_MasterSpriteSheet_118: -364515976
-      BLACKSAMURAI_MasterSpriteSheet_119: -1603664591
-      BLACKSAMURAI_MasterSpriteSheet_12: -516890607
-      BLACKSAMURAI_MasterSpriteSheet_120: -772226631
-      BLACKSAMURAI_MasterSpriteSheet_121: 1307966012
-      BLACKSAMURAI_MasterSpriteSheet_122: 1365215543
-      BLACKSAMURAI_MasterSpriteSheet_123: 664113362
-      BLACKSAMURAI_MasterSpriteSheet_124: -1594291660
-      BLACKSAMURAI_MasterSpriteSheet_125: -1815816552
       BLACKSAMURAI_MasterSpriteSheet_126: 871206612
-      BLACKSAMURAI_MasterSpriteSheet_127: 595379029
-      BLACKSAMURAI_MasterSpriteSheet_128: 1545484684
-      BLACKSAMURAI_MasterSpriteSheet_129: -1570503820
-      BLACKSAMURAI_MasterSpriteSheet_13: -1740746548
-      BLACKSAMURAI_MasterSpriteSheet_130: -1997353924
-      BLACKSAMURAI_MasterSpriteSheet_131: -1584520376
-      BLACKSAMURAI_MasterSpriteSheet_132: -476007759
-      BLACKSAMURAI_MasterSpriteSheet_133: 216270971
-      BLACKSAMURAI_MasterSpriteSheet_134: 1329169934
-      BLACKSAMURAI_MasterSpriteSheet_135: -1893371036
-      BLACKSAMURAI_MasterSpriteSheet_136: -1760991643
-      BLACKSAMURAI_MasterSpriteSheet_137: 445530526
-      BLACKSAMURAI_MasterSpriteSheet_138: -963147155
       BLACKSAMURAI_MasterSpriteSheet_139: -1335154018
-      BLACKSAMURAI_MasterSpriteSheet_14: -1712539457
-      BLACKSAMURAI_MasterSpriteSheet_140: 91794036
       BLACKSAMURAI_MasterSpriteSheet_141: -1150935553
       BLACKSAMURAI_MasterSpriteSheet_142: 639798316
       BLACKSAMURAI_MasterSpriteSheet_143: -2143796530
-      BLACKSAMURAI_MasterSpriteSheet_144: 1830718244
-      BLACKSAMURAI_MasterSpriteSheet_145: -1819041802
-      BLACKSAMURAI_MasterSpriteSheet_146: 650536611
-      BLACKSAMURAI_MasterSpriteSheet_147: 988076645
-      BLACKSAMURAI_MasterSpriteSheet_148: -1938359337
-      BLACKSAMURAI_MasterSpriteSheet_149: 1175917950
       BLACKSAMURAI_MasterSpriteSheet_15: -626129376
       BLACKSAMURAI_MasterSpriteSheet_16: 1424898366
-      BLACKSAMURAI_MasterSpriteSheet_17: -446825133
-      BLACKSAMURAI_MasterSpriteSheet_18: 1329232437
-      BLACKSAMURAI_MasterSpriteSheet_19: -231989458
-      BLACKSAMURAI_MasterSpriteSheet_2: -3839038866465072915
-      BLACKSAMURAI_MasterSpriteSheet_20: 824492084
-      BLACKSAMURAI_MasterSpriteSheet_21: 352893708
       BLACKSAMURAI_MasterSpriteSheet_22: 2064263522
-      BLACKSAMURAI_MasterSpriteSheet_23: 1053835141
       BLACKSAMURAI_MasterSpriteSheet_24: 1863663472
       BLACKSAMURAI_MasterSpriteSheet_25: 1457326517
-      BLACKSAMURAI_MasterSpriteSheet_26: -1788618976
-      BLACKSAMURAI_MasterSpriteSheet_27: -757454950
-      BLACKSAMURAI_MasterSpriteSheet_28: 708731950
       BLACKSAMURAI_MasterSpriteSheet_29: -950308154
       BLACKSAMURAI_MasterSpriteSheet_3: -8087194654770465894
       BLACKSAMURAI_MasterSpriteSheet_30: 1071583193
       BLACKSAMURAI_MasterSpriteSheet_31: -1474246537
-      BLACKSAMURAI_MasterSpriteSheet_32: 936771607
       BLACKSAMURAI_MasterSpriteSheet_33: -980477716
       BLACKSAMURAI_MasterSpriteSheet_34: 1283328278
-      BLACKSAMURAI_MasterSpriteSheet_35: -1253051776
-      BLACKSAMURAI_MasterSpriteSheet_36: 1387060817
       BLACKSAMURAI_MasterSpriteSheet_37: 1151260951
-      BLACKSAMURAI_MasterSpriteSheet_38: 381163214
-      BLACKSAMURAI_MasterSpriteSheet_39: -52798258
-      BLACKSAMURAI_MasterSpriteSheet_4: 1963999077
-      BLACKSAMURAI_MasterSpriteSheet_40: 1750191905
-      BLACKSAMURAI_MasterSpriteSheet_41: -1845049579
-      BLACKSAMURAI_MasterSpriteSheet_42: -963718430
-      BLACKSAMURAI_MasterSpriteSheet_43: -403428551
-      BLACKSAMURAI_MasterSpriteSheet_44: -610959469
       BLACKSAMURAI_MasterSpriteSheet_45: -1710274548
-      BLACKSAMURAI_MasterSpriteSheet_46: -1728345604
-      BLACKSAMURAI_MasterSpriteSheet_47: -1922026289
-      BLACKSAMURAI_MasterSpriteSheet_48: 971604313
-      BLACKSAMURAI_MasterSpriteSheet_49: -58495776
       BLACKSAMURAI_MasterSpriteSheet_5: 259085941
-      BLACKSAMURAI_MasterSpriteSheet_50: -1131404936
       BLACKSAMURAI_MasterSpriteSheet_51: -1653855861
       BLACKSAMURAI_MasterSpriteSheet_52: 1154283202
       BLACKSAMURAI_MasterSpriteSheet_53: -1487598110
       BLACKSAMURAI_MasterSpriteSheet_54: -2005319644
       BLACKSAMURAI_MasterSpriteSheet_55: -2129059379
-      BLACKSAMURAI_MasterSpriteSheet_56: -284398714
       BLACKSAMURAI_MasterSpriteSheet_57: -1697944578
       BLACKSAMURAI_MasterSpriteSheet_58: 1932035833
-      BLACKSAMURAI_MasterSpriteSheet_59: -414888600
       BLACKSAMURAI_MasterSpriteSheet_6: 1407537734
-      BLACKSAMURAI_MasterSpriteSheet_60: -1167128750
-      BLACKSAMURAI_MasterSpriteSheet_61: 1263101506
-      BLACKSAMURAI_MasterSpriteSheet_62: -1930967012
-      BLACKSAMURAI_MasterSpriteSheet_63: 694526666
-      BLACKSAMURAI_MasterSpriteSheet_64: 367118947
-      BLACKSAMURAI_MasterSpriteSheet_65: 1670481888
       BLACKSAMURAI_MasterSpriteSheet_66: -15328532
-      BLACKSAMURAI_MasterSpriteSheet_67: 931321437
-      BLACKSAMURAI_MasterSpriteSheet_68: -549728388
-      BLACKSAMURAI_MasterSpriteSheet_69: -880755151
-      BLACKSAMURAI_MasterSpriteSheet_7: -498813412
-      BLACKSAMURAI_MasterSpriteSheet_70: 1297753848
       BLACKSAMURAI_MasterSpriteSheet_71: -992032211
-      BLACKSAMURAI_MasterSpriteSheet_72: 1052475528
-      BLACKSAMURAI_MasterSpriteSheet_73: 734719005
-      BLACKSAMURAI_MasterSpriteSheet_74: -1956095242
-      BLACKSAMURAI_MasterSpriteSheet_75: 1666728777
-      BLACKSAMURAI_MasterSpriteSheet_76: -1695705906
-      BLACKSAMURAI_MasterSpriteSheet_77: 2097578291
-      BLACKSAMURAI_MasterSpriteSheet_78: -523825655
-      BLACKSAMURAI_MasterSpriteSheet_79: -182642101
-      BLACKSAMURAI_MasterSpriteSheet_8: -1570502389
       BLACKSAMURAI_MasterSpriteSheet_80: 1102775039
-      BLACKSAMURAI_MasterSpriteSheet_81: -547234723
-      BLACKSAMURAI_MasterSpriteSheet_82: 1153524727
       BLACKSAMURAI_MasterSpriteSheet_83: 263444152
-      BLACKSAMURAI_MasterSpriteSheet_84: 2134328694
-      BLACKSAMURAI_MasterSpriteSheet_85: -1189748645
-      BLACKSAMURAI_MasterSpriteSheet_86: 33401363
-      BLACKSAMURAI_MasterSpriteSheet_87: 1038473789
-      BLACKSAMURAI_MasterSpriteSheet_88: -281189174
-      BLACKSAMURAI_MasterSpriteSheet_89: 327691756
-      BLACKSAMURAI_MasterSpriteSheet_9: 1238989191
       BLACKSAMURAI_MasterSpriteSheet_90: 1912856496
       BLACKSAMURAI_MasterSpriteSheet_91: 1008148036
       BLACKSAMURAI_MasterSpriteSheet_92: -1560679771
@@ -2553,6 +2462,97 @@ TextureImporter:
       BLACKSAMURAI_MasterSpriteSheet_97: -986135395
       BLACKSAMURAI_MasterSpriteSheet_98: -836880521
       BLACKSAMURAI_MasterSpriteSheet_99: 803474091
+      Block_1: 1545225740
+      Block_2: -1727764223
+      Block_3: -1088103761
+      Block_4: -991991044
+      Color: 1963999077
+      Crouch_1: 931321437
+      Crouch_2: -549728388
+      Crouch_3: -880755151
+      Dash_1: 1297753848
+      Dash_2: 1052475528
+      Dash_3: 734719005
+      Dash_4: -1956095242
+      Death_1: -772226631
+      Death_2: 1307966012
+      Death_3: 1365215543
+      Death_4: 664113362
+      Death_5: -1594291660
+      Death_6: -1815816552
+      Explosive_1: 988076645
+      Fall_1: -1167128750
+      Fall_2: 1263101506
+      Fall_3: -1930967012
+      Fall_4: -1922026289
+      Fire_1: 1830718244
+      Fire_2: -1819041802
+      Fire_3: 650536611
+      FxEffect_1: -1584520376
+      FxEffect_2: -476007759
+      FxEffect_3: 216270971
+      FxEffect_4: 1329169934
+      Head: -446825133
+      Head_: -3839038866465072915
+      Head_1: 971604313
+      Head_2: 936771607
+      Hurt_1: -1218340913
+      Hurt_2: -364515976
+      Hurt_3: 977112148
+      Hurt_4: -1603664591
+      Hurt_5: -1465817206
+      Idle_1: 352893708
+      Idle_2: -498813412
+      Idle_3: -1570502389
+      Idle_4: 1053835141
+      Idle_5: 1238989191
+      Idle_6: 2102450084
+      Jump_1: -963718430
+      Jump_2: -403428551
+      Jump_3: -610959469
+      Jump_4: -284398714
+      Jump_5: -1189748645
+      Land_1: 694526666
+      Land_2: 367118947
+      Land_3: 1670481888
+      Land_4: -1131404936
+      Lightning _1: -1938359337
+      Lightning _2: 1175917950
+      Main_Pose: -1728345604
+      ProjectileShuriken: -1253051776
+      ProjectileShuriken_1: 595379029
+      ProjectileShuriken_2: 1545484684
+      ProjectileShuriken_3: -1570503820
+      ProjectileShuriken_4: -1997353924
+      Run_1: 1387060817
+      Run_2: 381163214
+      Run_3: -52798258
+      Run_4: 1750191905
+      Run_5: -1845049579
+      Scarf: -58495776
+      ShadowGhost_1: -1893371036
+      ShadowGhost_2: -1760991643
+      ShadowGhost_3: 445530526
+      ShadowGhost_4: -963147155
+      ShadowGhost_5: 91794036
+      SpinAttack_1: -1816501000
+      SpinAttack_2: -1345215283
+      SpinAttack_3: -1292726537
+      SpinAttack_4: -84197406
+      SpinAttack_5: -1202208987
+      SpinAttack_6: -1135215333
+      SpinAttack_7: -299805463
+      Sword: 824492084
+      TurnBack_1: 1329232437
+      TurnBack_2: -231989458
+      Walk_: 708731950
+      Walk_1: -1077308475
+      Walk_2: -1788618976
+      Walk_3: -516890607
+      Walk_4: -757454950
+      Walk_5: -1740746548
+      Walk_7: -1712539457
+      Walk_8: -414888600
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
