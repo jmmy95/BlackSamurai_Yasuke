@@ -1,16 +1,30 @@
 using UnityEngine;
+using UnityEngine.UI;
 
-public class NewMonoBehaviourScript : MonoBehaviour
+public class OptionsMenu : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public Slider musicSlider;
+    public Slider sfxSlider;
+    public Toggle fullscreenToggle;
+    public GameObject optionsPanel;
+
+    public void SetMusicVolume(float volume)
     {
-        
+        AudioListener.volume = volume;
     }
 
-    // Update is called once per frame
-    void Update()
+    public void SetSFXVolume(float volume)
     {
-        
+        // Connect your SFX AudioMixer here later.
+    }
+
+    public void SetFullscreen(bool fullscreen)
+    {
+        Screen.fullScreen = fullscreen;
+    }
+
+    public void Back()
+    {
+        optionsPanel.SetActive(false);
     }
 }
