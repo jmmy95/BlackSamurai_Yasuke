@@ -4,59 +4,80 @@ using UnityEngine.SceneManagement;
 public class MainMenu : MonoBehaviour
 {
     [Header("Panels")]
-    public GameObject optionsPanel;
-    public GameObject creditsPanel;
+    [SerializeField] private GameObject optionsPanel;
+    [SerializeField] private GameObject creditsPanel;
 
-    public void PlayGame()
+    private void Start()
     {
-        PlayerPrefs.SetString("LastScene", "Level01");
-        PlayerPrefs.Save();
+        // Hide panels when Main Menu starts
+        if (optionsPanel != null)
+            optionsPanel.SetActive(false);
 
+        if (creditsPanel != null)
+            creditsPanel.SetActive(false);
+    }
+
+    // PLAY
+    public void Play()
+    {
+        Time.timeScale = 1f;
         SceneManager.LoadScene("Level01");
     }
 
+    // CONTINUE
     public void ContinueGame()
     {
-        string lastScene = PlayerPrefs.GetString("LastScene", "");
+        Time.timeScale = 1f;
 
-        if (!string.IsNullOrEmpty(lastScene))
-        {
-            SceneManager.LoadScene(lastScene);
-        }
+        int level = PlayerPrefs.GetInt("LastLevel", 1);
+
+        if (level <= 1)
+            SceneManager.LoadScene("Level01");
+        else if (level == 2)
+            SceneManager.LoadScene("Level02");
         else
-        {
-            PlayGame();
-        }
+            SceneManager.LoadScene("Level03");
     }
 
+    // SHOP
+    public void Shop()
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("Shop");
+    }
+
+    // OPTIONS OPEN
     public void OpenOptions()
     {
         if (optionsPanel != null)
             optionsPanel.SetActive(true);
     }
 
+    // OPTIONS CLOSE
     public void CloseOptions()
     {
         if (optionsPanel != null)
             optionsPanel.SetActive(false);
     }
 
+    // CREDITS OPEN
     public void OpenCredits()
     {
         if (creditsPanel != null)
             creditsPanel.SetActive(true);
     }
 
+    // CREDITS CLOSE
     public void CloseCredits()
     {
         if (creditsPanel != null)
             creditsPanel.SetActive(false);
     }
 
-    public void QuitGame()
+    // QUIT
+    public void Quit()
     {
-        Debug.Log("Quitting Black Samurai...");
-
+        Debug.Log("Quitting BLACKSAMURAI...");
         Application.Quit();
     }
 }
