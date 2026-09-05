@@ -1,8 +1,11 @@
 using UnityEngine;
+using UnityEngine.Audio;
 using UnityEngine.UI;
 
 public class OptionsMenu : MonoBehaviour
 {
+    public AudioMixer audioMixer;
+
     public Slider musicSlider;
     public Slider sfxSlider;
     public Toggle fullscreenToggle;
@@ -10,12 +13,12 @@ public class OptionsMenu : MonoBehaviour
 
     public void SetMusicVolume(float volume)
     {
-        AudioListener.volume = volume;
+        audioMixer.SetFloat("MusicVolume", Mathf.Log10(volume) * 20);
     }
 
     public void SetSFXVolume(float volume)
     {
-        // Connect your SFX AudioMixer here later.
+        audioMixer.SetFloat("SFXVolume", Mathf.Log10(volume) * 20);
     }
 
     public void SetFullscreen(bool fullscreen)
